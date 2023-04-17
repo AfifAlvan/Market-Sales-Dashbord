@@ -1,6 +1,6 @@
 # Market-Sales-Dashbord
 
-Supermarket Sales Dashboard with POWER BI
+Market Sales Dashboard with POWER BI
 
 **The Dashboard**
 
